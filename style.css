@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.todocolor{
+    color: greenyellow;
+}
+.listcolor{
+    color: whitesmoke;
+    
+}
+.h1{
+    text-align: center;
+}
+.todo{
+    text-align: center;
+}
+li{
+    color: white;
+    
+    
+}
